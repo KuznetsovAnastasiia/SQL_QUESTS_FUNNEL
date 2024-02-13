@@ -16,4 +16,4 @@
 
 Датасеты взяты при прохождении курса Тинькофф "Анализ данных в индустрии 2023 (вольные слушатели)". </div>
 
-Ссылка на проект ...
+Ссылка на проект https://github.com/KuznetsovAnastasiia/SQL_QUESTS_FUNNEL/blob/main/SQL_QUESTS_FUNNEL.ipynb
