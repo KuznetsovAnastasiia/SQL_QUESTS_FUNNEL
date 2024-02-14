@@ -1,6 +1,6 @@
 <h1 align="center"> Проект "Исследование воронки продаж игровых оффлайн квестов" </h1>
 
-<center><img src="https://static.tildacdn.com/tild3937-6364-4266-a463-303661646464/-01.png" width="600" height="400" /></center>
+<p align="center"><img src="https://static.tildacdn.com/tild3937-6364-4266-a463-303661646464/-01.png" width="600" height="400" /></p>
 
 
 
